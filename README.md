@@ -1,4 +1,5 @@
 # 📈 Dynamic Pricing & Revenue Optimization Engine
+<img width="1911" height="1055" alt="dashboard png" src="https://github.com/user-attachments/assets/ad69a3de-c9e1-4797-af40-edde269c63ab" />
 
 ## 🚀 Overview
 The **Dynamic Pricing & Revenue Optimization Engine** is a full-stack Python web application designed to simulate and optimize corporate pricing strategies. Moving beyond historical data reporting, this engine mathematically models the **Price Elasticity of Demand (PED)** and provides an interactive executive dashboard to forecast the financial impact of active pricing decisions.
